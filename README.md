@@ -1,6 +1,6 @@
 # Rimworld Mod Template
 
-Cloned from https://github.com/onoira/rimworld-vscode-templateP
+Cloned from https://github.com/onoira/rimworld-vscode-template
 
 This template is created for Rimworld modders who use [Visual Studio Code](https://code.visualstudio.com/) instead of Visual Studio IDE.
 
